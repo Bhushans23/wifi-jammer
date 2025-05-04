@@ -1,0 +1,4 @@
+# No external Python packages required as the script uses standard libraries
+# The main dependencies are system packages:
+# - aircrack-ng
+# - python3 
